@@ -6,7 +6,7 @@ A beginner-friendly React.js web application designed as a learning project to e
 
 ## 🌐 Live Demo
 Check out the live website here:  
-👉 [React First Project](https://react-first-project-lyart.vercel.app/)
+👉 (https://react-first-project-lyart.vercel.app/)
 
 ## 🚀 Features
 
@@ -25,8 +25,10 @@ Check out the live website here:
 - Vercel (for deployment)
 
 🙋‍♂️ Author
+
 RAAJIV
 ✉️ Email :raajivraajiv@gmail.com
+
 LinkedIn : www.linkedin.com/in/raajivg
 
 Thanks for visiting my Github Project
